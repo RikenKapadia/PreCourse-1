@@ -1,3 +1,4 @@
+# RIken Kapadia
 # Time complexity:
 # push(): O(1) - constant time to add node at the beginning
 # pop(): O(1) - constant time to remove node from the beginning
