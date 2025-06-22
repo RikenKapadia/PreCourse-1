@@ -1,3 +1,4 @@
+# RIken Kapadia
 # Time Complexity: 
 # append: O(n)
 # find: O(n)
